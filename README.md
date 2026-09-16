@@ -675,7 +675,7 @@ The classification threshold could be tuned depending on whether the business ob
 
 🎓 B.Tech — Computer Science & Engineering (Artificial Intelligence & Machine Learning)
 
-🇫🇷 Incoming MSc Data Science & Analytics — EPITA Paris
+🇫🇷 Current MSc Data Science & Analytics — EPITA Paris
 
 ---
 
